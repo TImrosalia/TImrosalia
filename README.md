@@ -1,7 +1,11 @@
-Olá, Mundo!
-👋 Eu sou a Maria!
+Olá, Mundo! 👋 
+Eu sou a Maria!
 
-Estou iniciando minha jornada no mundo da programação e este é meu cantinho no GitHub. 💻
-Ainda estou explorando diferentes áreas e linguagens, no momento estou estudando sobre lógica da programação com JavaScript, mas bora aprender e desenvolver projetos incríveis. 🚀
+Atualmente estou cursando **Ciência de Dados** e me apaixonando cada vez mais por tudo que envolve **dados, programação e análise**. 📊💻
 
-Vamos nos conectar!
+No momento, estou aprofundando meus estudos em **Python**, **estatística** e **bibliotecas como Pandas e Matplotlib**. Também tenho explorado lógica de programação com **JavaScript** como base para desenvolver meu raciocínio computacional.
+
+Este é meu cantinho para compartilhar projetos, aprendizados e evolução nessa jornada. 🚀
+
+Vamos nos conectar e trocar ideias! 🤝
+
